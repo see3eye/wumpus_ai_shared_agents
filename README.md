@@ -4,9 +4,9 @@ This repo contains example Agents for the Wumpus AI Website.   Initial examples 
 
 New to Wumpus?  
 Play
-https://luka1199.github.io/wumpus-world/
-or..
-https://thiagodnf.github.io/wumpus-world-simulator/
+1)  https://luka1199.github.io/wumpus-world/
+2)  https://thiagodnf.github.io/wumpus-world-simulator/
+3)  https://wiki.classictw.com/index.php/Hunt_the_Wumpus
 
 Read...
 https://www.geeksforgeeks.org/ai-the-wumpus-world-description/
