@@ -9,6 +9,6 @@ Play
 2)  https://thiagodnf.github.io/wumpus-world-simulator/
 3)  https://wiki.classictw.com/index.php/Hunt_the_Wumpus
 
-Read...
+Read
 1)  https://www.geeksforgeeks.org/ai-the-wumpus-world-description/
 2)  https://www.educative.io/answers/what-is-the-wumpus-world-in-artificial-intelligence
